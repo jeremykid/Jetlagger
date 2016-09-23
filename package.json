@@ -1,0 +1,32 @@
+{
+  "name": "jetlagger",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "test:watch": "npm run test -- --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "eslint": "^3.5.0",
+    "eslint-plugin-react": "^6.2.2",
+    "react-addons-test-utils": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  },
+  "dependencies": {
+    "babel-preset-stage-1": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "*",
+    "react-router": "*",
+    "redux": "*",
+  }
+}
