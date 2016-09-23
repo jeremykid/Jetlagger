@@ -27,6 +27,6 @@
     "react-dom": "*",
     "react-redux": "*",
     "react-router": "*",
-    "redux": "*",
+    "redux": "*"
   }
 }
