@@ -11,9 +11,18 @@ TODO...
 - React
 - Redux
 - React-Router
-- ESLint
 - Webpack
 - Babel
+- Express
+- Node.js
+- ESLint (For coding style)
+- MongoDB
+- ...
+
+
+## Before You Start
+
+Check your Node version, it should be 6.6.0. For installing other dependencies, see below
 
 ## How To Start
 
