@@ -17,6 +17,9 @@
     "babel-preset-react": "*",
     "eslint": "^3.5.0",
     "eslint-plugin-react": "^6.2.2",
+    "eslint-config-airbnb": "*",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-jsx-a11y": "*",
     "react-addons-test-utils": "*",
     "webpack": "*",
     "webpack-dev-server": "*"

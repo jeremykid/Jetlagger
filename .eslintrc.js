@@ -3,7 +3,7 @@ module.exports = {
         "browser": true,
         "es6": true
     },
-    "extends": "eslint:recommended",
+    "extends": "airbnb/base",
     "installedESLint": true,
     "parserOptions": {
         "ecmaFeatures": {
@@ -20,19 +20,13 @@ module.exports = {
             "error",
             2
         ],
-        "linebreak-style": [
-            "error",
-            "unix"
-        ],
-        "quotes": [
-            "error",
-            "single"
-        ],
         "semi": [
             "error",
             "never"
         ],
         "no-unused-vars": "off",
         "no-console": "off",
+        "space-before-function-paren": "off",
+        "class-methods-use-this": "off"
     }
 };
