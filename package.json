@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "TODO",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/Kulbear/Jetlagger",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test:watch": "npm run test -- --watch"
